@@ -1,1 +1,1 @@
-Repositorio para practicar git y github.
+Repositorio para practicar Git y Github.
